@@ -1,0 +1,277 @@
+,group,team,player,position,First Name,Last Name
+0,A,Brazil,Alisson,GK,Alisson,#
+1,A,Brazil,Thiago Silva,DF,Thiago,Silva
+2,A,Brazil,Miranda,DF,Miranda,#
+3,A,Brazil,Marquinhos,DF,Marquinhos,#
+4,A,Brazil,Casemiro,MF,Casemiro,#
+5,A,Brazil,Filipe Luís,DF,Filipe,Luís
+6,A,Brazil,David Neres,FW,David,Neres
+7,A,Brazil,Arthur,MF,Arthur,#
+8,A,Brazil,Gabriel Jesus,FW,Gabriel,Jesus
+9,A,Brazil,Willian,MF,Willian,#
+10,A,Brazil,Philippe Coutinho,MF,Philippe,Coutinho
+11,A,Brazil,Alex Sandro,DF,Alex,Sandro
+12,A,Brazil,Dani Alves,DF,Dani,Alves
+13,A,Brazil,Éder Militão,DF,Éder,Militão
+14,A,Brazil,Allan,MF,Allan,#
+15,A,Brazil,Cássio,GK,Cássio,#
+16,A,Brazil,Fernandinho,MF,Fernandinho,#
+17,A,Brazil,Lucas Paquetá,MF,Lucas,Paquetá
+18,A,Brazil,Everton,FW,Everton,#
+19,A,Brazil,Roberto Firmino,FW,Roberto,Firmino
+20,A,Brazil,Richarlison,FW,Richarlison,#
+21,A,Brazil,Fagner,DF,Fagner,#
+22,A,Brazil,Ederson,GK,Ederson,#
+23,A,Bolivia,Carlos Lampe,GK,Carlos,Lampe
+24,A,Bolivia,Saúl Torres,DF,Saúl,Torres
+25,A,Bolivia,Alejandro Chumacero,MF,Alejandro,Chumacero
+26,A,Bolivia,Luis Haquin,DF,Luis,Haquin
+27,A,Bolivia,Mario Cuéllar,DF,Mario,Cuéllar
+28,A,Bolivia,Erwin Saavedra,MF,Erwin,Saavedra
+29,A,Bolivia,Leonel Justiniano,MF,Leonel,Justiniano
+30,A,Bolivia,Diego Bejarano,DF,Diego,Bejarano
+31,A,Bolivia,Marcelo Martins,FW,Marcelo,Martins
+32,A,Bolivia,Samuel Galindo,MF,Samuel,Galindo
+33,A,Bolivia,Leonardo Vaca,FW,Leonardo,Vaca
+34,A,Bolivia,Rubén Cordano,GK,Rubén,Cordano
+35,A,Bolivia,José María Carrasco,DF,José,María Carrasco
+36,A,Bolivia,Raúl Castro,MF,Raúl,Castro
+37,A,Bolivia,Paul Arano,MF,Paul,Arano
+38,A,Bolivia,Diego Wayar,MF,Diego,Wayar
+39,A,Bolivia,Marvin Bejarano,DF,Marvin,Bejarano
+40,A,Bolivia,Gilbert Álvarez,FW,Gilbert,Álvarez
+41,A,Bolivia,Ramiro Vaca,MF,Ramiro,Vaca
+42,A,Bolivia,Fernando Saucedo,MF,Fernando,Saucedo
+43,A,Bolivia,Roberto Fernández,DF,Roberto,Fernández
+44,A,Bolivia,Adrián Jusino,DF,Adrián,Jusino
+45,A,Bolivia,Javier Rojas,GK,Javier,Rojas
+46,A,Venezuela,Wuilker Faríñez,GK,Wuilker,Faríñez
+47,A,Venezuela,Mikel Villanueva,DF,Mikel,Villanueva
+48,A,Venezuela,Yordan Osorio,DF,Yordan,Osorio
+49,A,Venezuela,Jhon Chancellor,DF,Jhon,Chancellor
+50,A,Venezuela,Júnior Moreno,MF,Júnior,Moreno
+51,A,Venezuela,Yangel Herrera,MF,Yangel,Herrera
+52,A,Venezuela,Darwin Machís,MF,Darwin,Machís
+53,A,Venezuela,Tomás Rincón,MF,Tomás,Rincón
+54,A,Venezuela,Fernando Aristeguieta,FW,Fernando,Aristeguieta
+55,A,Venezuela,Jefferson Savarino,MF,Jefferson,Savarino
+56,A,Venezuela,Juanpi,MF,Juanpi,#
+57,A,Venezuela,Joel Graterol,GK,Joel,Graterol
+58,A,Venezuela,Luis Manuel Seijas,MF,Luis,Manuel Seijas
+59,A,Venezuela,Luis Mago,DF,Luis,Mago
+60,A,Venezuela,Jhon Murillo,MF,Jhon,Murillo
+61,A,Venezuela,Roberto Rosales,DF,Roberto,Rosales
+62,A,Venezuela,Josef Martínez,FW,Josef,Martínez
+63,A,Venezuela,Yeferson Soteldo,MF,Yeferson,Soteldo
+64,A,Venezuela,Arquímedes Figuera,MF,Arquímedes,Figuera
+65,A,Venezuela,Ronald Hernández,DF,Ronald,Hernández
+66,A,Venezuela,Rolf Feltscher,DF,Rolf,Feltscher
+67,A,Venezuela,Rafael Romo,GK,Rafael,Romo
+68,A,Venezuela,José Salomón Rondón,FW,José,Salomón Rondón
+69,A,Peru,Pedro Gallese,GK,Pedro,Gallese
+70,A,Peru,Luis Abram,DF,Luis,Abram
+71,A,Peru,Aldo Corzo,DF,Aldo,Corzo
+72,A,Peru,Anderson Santamaría,DF,Anderson,Santamaría
+73,A,Peru,Miguel Araujo,DF,Miguel,Araujo
+74,A,Peru,Miguel Trauco,DF,Miguel,Trauco
+75,A,Peru,Josepmir Ballón,MF,Josepmir,Ballón
+76,A,Peru,Christian Cueva,MF,Christian,Cueva
+77,A,Peru,Paolo Guerrero,FW,Paolo,Guerrero
+78,A,Peru,Jefferson Farfán,FW,Jefferson,Farfán
+79,A,Peru,Raúl Ruidíaz,FW,Raúl,Ruidíaz
+80,A,Peru,Carlos Cáceda,GK,Carlos,Cáceda
+81,A,Peru,Renato Tapia,MF,Renato,Tapia
+82,A,Peru,Andy Polo,FW,Andy,Polo
+83,A,Peru,Carlos Zambrano,DF,Carlos,Zambrano
+84,A,Peru,Jesús Pretell,MF,Jesús,Pretell
+85,A,Peru,Luis Advíncula,DF,Luis,Advíncula
+86,A,Peru,André Carrillo,FW,André,Carrillo
+87,A,Peru,Yoshimar Yotún,MF,Yoshimar,Yotún
+88,A,Peru,Edison Flores,MF,Edison,Flores
+89,A,Peru,Patricio Álvarez,GK,Patricio,Álvarez
+90,A,Peru,Alexander Callens,DF,Alexander,Callens
+91,A,Peru,Christofer Gonzáles,MF,Christofer,Gonzáles
+92,B,Argentina,Franco Armani,GK,Franco,Armani
+93,B,Argentina,Juan Foyth,DF,Juan,Foyth
+94,B,Argentina,Nicolás Tagliafico,DF,Nicolás,Tagliafico
+95,B,Argentina,Renzo Saravia,DF,Renzo,Saravia
+96,B,Argentina,Leandro Paredes,MF,Leandro,Paredes
+97,B,Argentina,Germán Pezzella,DF,Germán,Pezzella
+98,B,Argentina,Roberto Pereyra,MF,Roberto,Pereyra
+99,B,Argentina,Marcos Acuña,MF,Marcos,Acuña
+100,B,Argentina,Sergio Agüero,FW,Sergio,Agüero
+101,B,Argentina,Lionel Messi,FW,Lionel,Messi
+102,B,Argentina,Ángel Di María,MF,Ángel,Di María
+103,B,Argentina,Agustín Marchesín,GK,Agustín,Marchesín
+104,B,Argentina,Ramiro Funes Mori,DF,Ramiro,Funes Mori
+105,B,Argentina,Milton Casco,DF,Milton,Casco
+106,B,Argentina,Guido Pizarro,MF,Guido,Pizarro
+107,B,Argentina,Rodrigo De Paul,MF,Rodrigo,De Paul
+108,B,Argentina,Nicolás Otamendi,DF,Nicolás,Otamendi
+109,B,Argentina,Guido Rodríguez,MF,Guido,Rodríguez
+110,B,Argentina,Matías Suárez,FW,Matías,Suárez
+111,B,Argentina,Giovani Lo Celso,MF,Giovani,Lo Celso
+112,B,Argentina,Paulo Dybala,FW,Paulo,Dybala
+113,B,Argentina,Lautaro Martínez,FW,Lautaro,Martínez
+114,B,Argentina,Juan Musso,GK,Juan,Musso
+115,B,Colombia,David Ospina,GK,David,Ospina
+116,B,Colombia,Cristián Zapata,DF,Cristián,Zapata
+117,B,Colombia,Stefan Medina,DF,Stefan,Medina
+118,B,Colombia,Santiago Arias,DF,Santiago,Arias
+119,B,Colombia,Wílmar Barrios,MF,Wílmar,Barrios
+120,B,Colombia,William Tesillo,DF,William,Tesillo
+121,B,Colombia,Duván Zapata,FW,Duván,Zapata
+122,B,Colombia,Edwin Cardona,MF,Edwin,Cardona
+123,B,Colombia,Radamel Falcao,FW,Radamel,Falcao
+124,B,Colombia,James Rodríguez,MF,James,Rodríguez
+125,B,Colombia,Juan Cuadrado,MF,Juan,Cuadrado
+126,B,Colombia,Camilo Vargas,GK,Camilo,Vargas
+127,B,Colombia,Yerry Mina,DF,Yerry,Mina
+128,B,Colombia,Luis Díaz,FW,Luis,Díaz
+129,B,Colombia,Mateus Uribe,MF,Mateus,Uribe
+130,B,Colombia,Jefferson Lerma,MF,Jefferson,Lerma
+131,B,Colombia,Cristian Borja,DF,Cristian,Borja
+132,B,Colombia,Gustavo Cuéllar,MF,Gustavo,Cuéllar
+133,B,Colombia,Luis Muriel,FW,Luis,Muriel
+134,B,Colombia,Roger Martínez,FW,Roger,Martínez
+135,B,Colombia,Jhon Lucumí,DF,Jhon,Lucumí
+136,B,Colombia,Álvaro Montero,GK,Álvaro,Montero
+137,B,Colombia,Davinson Sánchez,DF,Davinson,Sánchez
+138,B,Paraguay,Antony Silva,GK,Antony,Silva
+139,B,Paraguay,Iván Piris,DF,Iván,Piris
+140,B,Paraguay,Juan Escobar,DF,Juan,Escobar
+141,B,Paraguay,Fabián Balbuena,DF,Fabián,Balbuena
+142,B,Paraguay,Bruno Valdez,DF,Bruno,Valdez
+143,B,Paraguay,Santiago Arzamendia,DF,Santiago,Arzamendia
+144,B,Paraguay,Juan Iturbe,FW,Juan,Iturbe
+145,B,Paraguay,Juan Rodrigo Rojas,MF,Juan,Rodrigo Rojas
+146,B,Paraguay,Óscar Cardozo,FW,Óscar,Cardozo
+147,B,Paraguay,Derlis González,FW,Derlis,González
+148,B,Paraguay,Federico Santander,FW,Federico,Santander
+149,B,Paraguay,Gatito Fernández,GK,Gatito,Fernández
+150,B,Paraguay,Júnior Alonso,DF,Júnior,Alonso
+151,B,Paraguay,Iván Torres,DF,Iván,Torres
+152,B,Paraguay,Gustavo Gómez,DF,Gustavo,Gómez
+153,B,Paraguay,Celso Ortiz,MF,Celso,Ortiz
+154,B,Paraguay,Hernán Pérez,MF,Hernán,Pérez
+155,B,Paraguay,Richard Sánchez,MF,Richard,Sánchez
+156,B,Paraguay,Cecilio Domínguez,FW,Cecilio,Domínguez
+157,B,Paraguay,Matías Rojas,MF,Matías,Rojas
+158,B,Paraguay,Óscar Romero,FW,Óscar,Romero
+159,B,Paraguay,Alfredo Aguilar,GK,Alfredo,Aguilar
+160,B,Paraguay,Miguel Almirón,MF,Miguel,Almirón
+161,B,Qatar,Saad Al Sheeb,GK,Saad,Al Sheeb
+162,B,Qatar,Ró-Ró,DF,Ró-Ró,#
+163,B,Qatar,Abdelkarim Hassan,DF,Abdelkarim,Hassan
+164,B,Qatar,Al-Mahdi Ali Mukhtar,DF,Al-Mahdi,Ali Mukhtar
+165,B,Qatar,Tarek Salman,DF,Tarek,Salman
+166,B,Qatar,Abdulaziz Hatem,MF,Abdulaziz,Hatem
+167,B,Qatar,Ahmed Alaaeldin,FW,Ahmed,Alaaeldin
+168,B,Qatar,Hamid Ismail,DF,Hamid,Ismail
+169,B,Qatar,Abdullah Al-Ahrak,MF,Abdullah,Al-Ahrak
+170,B,Qatar,Hassan Al-Haydos,FW,Hassan,Al-Haydos
+171,B,Qatar,Akram Afif,FW,Akram,Afif
+172,B,Qatar,Karim Boudiaf,MF,Karim,Boudiaf
+173,B,Qatar,Tameem Al-Muhaza,DF,Tameem,Al-Muhaza
+174,B,Qatar,Salem Al-Hajri,MF,Salem,Al-Hajri
+175,B,Qatar,Bassam Al-Rawi,DF,Bassam,Al-Rawi
+176,B,Qatar,Boualem Khoukhi,MF,Boualem,Khoukhi
+177,B,Qatar,Ahmed Moein,MF,Ahmed,Moein
+178,B,Qatar,Ahmed Fatehi,MF,Ahmed,Fatehi
+179,B,Qatar,Almoez Ali,FW,Almoez,Ali
+180,B,Qatar,Ali Afif,MF,Ali,Afif
+181,B,Qatar,Yousef Hassan,GK,Yousef,Hassan
+182,B,Qatar,Mohammed Al-Bakri,GK,Mohammed,Al-Bakri
+183,B,Qatar,Assim Madibo,DF,Assim,Madibo
+184,C,Uruguay,Fernando Muslera,GK,Fernando,Muslera
+185,C,Uruguay,José Giménez,DF,José,Giménez
+186,C,Uruguay,Diego Godín,DF,Diego,Godín
+187,C,Uruguay,Giovanni González,DF,Giovanni,González
+188,C,Uruguay,Matías Vecino,MF,Matías,Vecino
+189,C,Uruguay,Rodrigo Bentancur,MF,Rodrigo,Bentancur
+190,C,Uruguay,Nicolás Lodeiro,MF,Nicolás,Lodeiro
+191,C,Uruguay,Nahitan Nández,MF,Nahitan,Nández
+192,C,Uruguay,Luis Suárez,FW,Luis,Suárez
+193,C,Uruguay,Giorgian De Arrascaeta,MF,Giorgian,De Arrascaeta
+194,C,Uruguay,Cristhian Stuani,FW,Cristhian,Stuani
+195,C,Uruguay,Martín Campaña,GK,Martín,Campaña
+196,C,Uruguay,Marcelo Saracchi,DF,Marcelo,Saracchi
+197,C,Uruguay,Lucas Torreira,MF,Lucas,Torreira
+198,C,Uruguay,Federico Valverde,MF,Federico,Valverde
+199,C,Uruguay,Gastón Pereiro,MF,Gastón,Pereiro
+200,C,Uruguay,Diego Laxalt,DF,Diego,Laxalt
+201,C,Uruguay,Maxi Gómez,FW,Maxi,Gómez
+202,C,Uruguay,Sebastián Coates,DF,Sebastián,Coates
+203,C,Uruguay,Jonathan Rodríguez,FW,Jonathan,Rodríguez
+204,C,Uruguay,Edinson Cavani,FW,Edinson,Cavani
+205,C,Uruguay,Martín Cáceres,DF,Martín,Cáceres
+206,C,Uruguay,Martín Silva,GK,Martín,Silva
+207,C,Ecuador,Alexander Domínguez,GK,Alexander,Domínguez
+208,C,Ecuador,Arturo Mina,DF,Arturo,Mina
+209,C,Ecuador,Robert Arboleda,DF,Robert,Arboleda
+210,C,Ecuador,Pedro Pablo Velasco,DF,Pedro,Pablo Velasco
+211,C,Ecuador,Renato Ibarra,MF,Renato,Ibarra
+212,C,Ecuador,Cristian Ramírez,DF,Cristian,Ramírez
+213,C,Ecuador,Romario Ibarra,MF,Romario,Ibarra
+214,C,Ecuador,Carlos Gruezo,MF,Carlos,Gruezo
+215,C,Ecuador,Carlos Garcés,FW,Carlos,Garcés
+216,C,Ecuador,Ángel Mena,FW,Ángel,Mena
+217,C,Ecuador,Ayrton Preciado,MF,Ayrton,Preciado
+218,C,Ecuador,Pedro Ortíz,GK,Pedro,Ortíz
+219,C,Ecuador,Enner Valencia,FW,Enner,Valencia
+220,C,Ecuador,Xavier Arreaga,DF,Xavier,Arreaga
+221,C,Ecuador,Jefferson Intriago,MF,Jefferson,Intriago
+222,C,Ecuador,Antonio Valencia,MF,Antonio,Valencia
+223,C,Ecuador,José Quintero,DF,José,Quintero
+224,C,Ecuador,Jefferson Orejuela,MF,Jefferson,Orejuela
+225,C,Ecuador,Beder Caicedo,DF,Beder,Caicedo
+226,C,Ecuador,Andrés Chicaiza,MF,Andrés,Chicaiza
+227,C,Ecuador,Gabriel Achilier,DF,Gabriel,Achilier
+228,C,Ecuador,Máximo Banguera,GK,Máximo,Banguera
+229,C,Ecuador,Jhegson Méndez,MF,Jhegson,Méndez
+230,C,Japan,Eiji Kawashima,GK,Eiji,Kawashima
+231,C,Japan,Daiki Sugioka,DF,Daiki,Sugioka
+232,C,Japan,Yuta Nakayama,MF,Yuta,Nakayama
+233,C,Japan,Ko Itakura,DF,Ko,Itakura
+234,C,Japan,Naomichi Ueda,DF,Naomichi,Ueda
+235,C,Japan,Kota Watanabe,MF,Kota,Watanabe
+236,C,Japan,Gaku Shibasaki,MF,Gaku,Shibasaki
+237,C,Japan,Tatsuya Ito,MF,Tatsuya,Ito
+238,C,Japan,Daizen Maeda,FW,Daizen,Maeda
+239,C,Japan,Shoya Nakajima,MF,Shoya,Nakajima
+240,C,Japan,Koji Miyoshi,MF,Koji,Miyoshi
+241,C,Japan,Ryosuke Kojima,GK,Ryosuke,Kojima
+242,C,Japan,Ayase Ueda,FW,Ayase,Ueda
+243,C,Japan,Teruki Hara,DF,Teruki,Hara
+244,C,Japan,Daiki Suga,DF,Daiki,Suga
+245,C,Japan,Takehiro Tomiyasu,DF,Takehiro,Tomiyasu
+246,C,Japan,Taishi Matsumoto,MF,Taishi,Matsumoto
+247,C,Japan,Shinji Okazaki,FW,Shinji,Okazaki
+248,C,Japan,Tomoki Iwata,DF,Tomoki,Iwata
+249,C,Japan,Hiroki Abe,MF,Hiroki,Abe
+250,C,Japan,Takefusa Kubo,MF,Takefusa,Kubo
+251,C,Japan,Yugo Tatsuta,DF,Yugo,Tatsuta
+252,C,Japan,Keisuke Osako,GK,Keisuke,Osako
+253,C,Chile,Gabriel Arias,GK,Gabriel,Arias
+254,C,Chile,Igor Lichnovsky,DF,Igor,Lichnovsky
+255,C,Chile,Guillermo Maripán,DF,Guillermo,Maripán
+256,C,Chile,Mauricio Isla,DF,Mauricio,Isla
+257,C,Chile,Paulo Díaz,DF,Paulo,Díaz
+258,C,Chile,José Pedro Fuenzalida,MF,José,Pedro Fuenzalida
+259,C,Chile,Alexis Sánchez,FW,Alexis,Sánchez
+260,C,Chile,Arturo Vidal,MF,Arturo,Vidal
+261,C,Chile,Nicolás Castillo,FW,Nicolás,Castillo
+262,C,Chile,Diego Valdés,MF,Diego,Valdés
+263,C,Chile,Eduardo Vargas,FW,Eduardo,Vargas
+264,C,Chile,Brayan Cortés,GK,Brayan,Cortés
+265,C,Chile,Erick Pulgar,MF,Erick,Pulgar
+266,C,Chile,Esteban Pavez,MF,Esteban,Pavez
+267,C,Chile,Jean Beausejour,DF,Jean,Beausejour
+268,C,Chile,Pedro Pablo Hernández,MF,Pedro,Pablo Hernández
+269,C,Chile,Gary Medel,DF,Gary,Medel
+270,C,Chile,Gonzalo Jara,DF,Gonzalo,Jara
+271,C,Chile,Júnior Fernándes,FW,Júnior,Fernándes
+272,C,Chile,Charles Aránguiz,MF,Charles,Aránguiz
+273,C,Chile,Óscar Opazo,DF,Óscar,Opazo
+274,C,Chile,Ángelo Sagal,FW,Ángelo,Sagal
+275,C,Chile,Yerko Urra,GK,Yerko,Urra

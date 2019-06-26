@@ -1,0 +1,277 @@
+group,team,player,position
+A,Brazil,Alisson,GK
+A,Brazil,Thiago Silva,DF
+A,Brazil,Miranda,DF
+A,Brazil,Marquinhos,DF
+A,Brazil,Casemiro,MF
+A,Brazil,Filipe Luís,DF
+A,Brazil,David Neres,FW
+A,Brazil,Arthur,MF
+A,Brazil,Gabriel Jesus,FW
+A,Brazil,Willian,MF
+A,Brazil,Philippe Coutinho,MF
+A,Brazil,Alex Sandro,DF
+A,Brazil,Dani Alves,DF
+A,Brazil,Éder Militão,DF
+A,Brazil,Allan,MF
+A,Brazil,Cássio,GK
+A,Brazil,Fernandinho,MF
+A,Brazil,Lucas Paquetá,MF
+A,Brazil,Everton,FW
+A,Brazil,Roberto Firmino,FW
+A,Brazil,Richarlison,FW
+A,Brazil,Fagner,DF
+A,Brazil,Ederson,GK
+A,Bolivia,Carlos Lampe,GK
+A,Bolivia,Saúl Torres,DF
+A,Bolivia,Alejandro Chumacero,MF
+A,Bolivia,Luis Haquin,DF
+A,Bolivia,Mario Cuéllar,DF
+A,Bolivia,Erwin Saavedra,MF
+A,Bolivia,Leonel Justiniano,MF
+A,Bolivia,Diego Bejarano,DF
+A,Bolivia,Marcelo Martins,FW
+A,Bolivia,Samuel Galindo,MF
+A,Bolivia,Leonardo Vaca,FW
+A,Bolivia,Rubén Cordano,GK
+A,Bolivia,José María Carrasco,DF
+A,Bolivia,Raúl Castro,MF
+A,Bolivia,Paul Arano,MF
+A,Bolivia,Diego Wayar,MF
+A,Bolivia,Marvin Bejarano,DF
+A,Bolivia,Gilbert Álvarez,FW
+A,Bolivia,Ramiro Vaca,MF
+A,Bolivia,Fernando Saucedo,MF
+A,Bolivia,Roberto Fernández,DF
+A,Bolivia,Adrián Jusino,DF
+A,Bolivia,Javier Rojas,GK
+A,Venezuela,Wuilker Faríñez,GK
+A,Venezuela,Mikel Villanueva,DF
+A,Venezuela,Yordan Osorio,DF
+A,Venezuela,Jhon Chancellor,DF
+A,Venezuela,Júnior Moreno,MF
+A,Venezuela,Yangel Herrera,MF
+A,Venezuela,Darwin Machís,MF
+A,Venezuela,Tomás Rincón,MF
+A,Venezuela,Fernando Aristeguieta,FW
+A,Venezuela,Jefferson Savarino,MF
+A,Venezuela,Juanpi,MF
+A,Venezuela,Joel Graterol,GK
+A,Venezuela,Luis Manuel Seijas,MF
+A,Venezuela,Luis Mago,DF
+A,Venezuela,Jhon Murillo,MF
+A,Venezuela,Roberto Rosales,DF
+A,Venezuela,Josef Martínez,FW
+A,Venezuela,Yeferson Soteldo,MF
+A,Venezuela,Arquímedes Figuera,MF
+A,Venezuela,Ronald Hernández,DF
+A,Venezuela,Rolf Feltscher,DF
+A,Venezuela,Rafael Romo,GK
+A,Venezuela,José Salomón Rondón,FW
+A,Peru,Pedro Gallese,GK
+A,Peru,Luis Abram,DF
+A,Peru,Aldo Corzo,DF
+A,Peru,Anderson Santamaría,DF
+A,Peru,Miguel Araujo,DF
+A,Peru,Miguel Trauco,DF
+A,Peru,Josepmir Ballón,MF
+A,Peru,Christian Cueva,MF
+A,Peru,Paolo Guerrero,FW
+A,Peru,Jefferson Farfán,FW
+A,Peru,Raúl Ruidíaz,FW
+A,Peru,Carlos Cáceda,GK
+A,Peru,Renato Tapia,MF
+A,Peru,Andy Polo,FW
+A,Peru,Carlos Zambrano,DF
+A,Peru,Jesús Pretell,MF
+A,Peru,Luis Advíncula,DF
+A,Peru,André Carrillo,FW
+A,Peru,Yoshimar Yotún,MF
+A,Peru,Edison Flores,MF
+A,Peru,Patricio Álvarez,GK
+A,Peru,Alexander Callens,DF
+A,Peru,Christofer Gonzáles,MF
+B,Argentina,Franco Armani,GK
+B,Argentina,Juan Foyth,DF
+B,Argentina,Nicolás Tagliafico,DF
+B,Argentina,Renzo Saravia,DF
+B,Argentina,Leandro Paredes,MF
+B,Argentina,Germán Pezzella,DF
+B,Argentina,Roberto Pereyra,MF
+B,Argentina,Marcos Acuña,MF
+B,Argentina,Sergio Agüero,FW
+B,Argentina,Lionel Messi,FW
+B,Argentina,Ángel Di María,MF
+B,Argentina,Agustín Marchesín,GK
+B,Argentina,Ramiro Funes Mori,DF
+B,Argentina,Milton Casco,DF
+B,Argentina,Guido Pizarro,MF
+B,Argentina,Rodrigo De Paul,MF
+B,Argentina,Nicolás Otamendi,DF
+B,Argentina,Guido Rodríguez,MF
+B,Argentina,Matías Suárez,FW
+B,Argentina,Giovani Lo Celso,MF
+B,Argentina,Paulo Dybala,FW
+B,Argentina,Lautaro Martínez,FW
+B,Argentina,Juan Musso,GK
+B,Colombia,David Ospina,GK
+B,Colombia,Cristián Zapata,DF
+B,Colombia,Stefan Medina,DF
+B,Colombia,Santiago Arias,DF
+B,Colombia,Wílmar Barrios,MF
+B,Colombia,William Tesillo,DF
+B,Colombia,Duván Zapata,FW
+B,Colombia,Edwin Cardona,MF
+B,Colombia,Radamel Falcao,FW
+B,Colombia,James Rodríguez,MF
+B,Colombia,Juan Cuadrado,MF
+B,Colombia,Camilo Vargas,GK
+B,Colombia,Yerry Mina,DF
+B,Colombia,Luis Díaz,FW
+B,Colombia,Mateus Uribe,MF
+B,Colombia,Jefferson Lerma,MF
+B,Colombia,Cristian Borja,DF
+B,Colombia,Gustavo Cuéllar,MF
+B,Colombia,Luis Muriel,FW
+B,Colombia,Roger Martínez,FW
+B,Colombia,Jhon Lucumí,DF
+B,Colombia,Álvaro Montero,GK
+B,Colombia,Davinson Sánchez,DF
+B,Paraguay,Antony Silva,GK
+B,Paraguay,Iván Piris,DF
+B,Paraguay,Juan Escobar,DF
+B,Paraguay,Fabián Balbuena,DF
+B,Paraguay,Bruno Valdez,DF
+B,Paraguay,Santiago Arzamendia,DF
+B,Paraguay,Juan Iturbe,FW
+B,Paraguay,Juan Rodrigo Rojas,MF
+B,Paraguay,Óscar Cardozo,FW
+B,Paraguay,Derlis González,FW
+B,Paraguay,Federico Santander,FW
+B,Paraguay,Gatito Fernández,GK
+B,Paraguay,Júnior Alonso,DF
+B,Paraguay,Iván Torres,DF
+B,Paraguay,Gustavo Gómez,DF
+B,Paraguay,Celso Ortiz,MF
+B,Paraguay,Hernán Pérez,MF
+B,Paraguay,Richard Sánchez,MF
+B,Paraguay,Cecilio Domínguez,FW
+B,Paraguay,Matías Rojas,MF
+B,Paraguay,Óscar Romero,FW
+B,Paraguay,Alfredo Aguilar,GK
+B,Paraguay,Miguel Almirón,MF
+B,Qatar,Saad Al Sheeb,GK
+B,Qatar,Ró-Ró,DF
+B,Qatar,Abdelkarim Hassan,DF
+B,Qatar,Al-Mahdi Ali Mukhtar,DF
+B,Qatar,Tarek Salman,DF
+B,Qatar,Abdulaziz Hatem,MF
+B,Qatar,Ahmed Alaaeldin,FW
+B,Qatar,Hamid Ismail,DF
+B,Qatar,Abdullah Al-Ahrak,MF
+B,Qatar,Hassan Al-Haydos,FW
+B,Qatar,Akram Afif,FW
+B,Qatar,Karim Boudiaf,MF
+B,Qatar,Tameem Al-Muhaza,DF
+B,Qatar,Salem Al-Hajri,MF
+B,Qatar,Bassam Al-Rawi,DF
+B,Qatar,Boualem Khoukhi,MF
+B,Qatar,Ahmed Moein,MF
+B,Qatar,Ahmed Fatehi,MF
+B,Qatar,Almoez Ali,FW
+B,Qatar,Ali Afif,MF
+B,Qatar,Yousef Hassan,GK
+B,Qatar,Mohammed Al-Bakri,GK
+B,Qatar,Assim Madibo,DF
+C,Uruguay,Fernando Muslera,GK
+C,Uruguay,José Giménez,DF
+C,Uruguay,Diego Godín,DF
+C,Uruguay,Giovanni González,DF
+C,Uruguay,Matías Vecino,MF
+C,Uruguay,Rodrigo Bentancur,MF
+C,Uruguay,Nicolás Lodeiro,MF
+C,Uruguay,Nahitan Nández,MF
+C,Uruguay,Luis Suárez,FW
+C,Uruguay,Giorgian De Arrascaeta,MF
+C,Uruguay,Cristhian Stuani,FW
+C,Uruguay,Martín Campaña,GK
+C,Uruguay,Marcelo Saracchi,DF
+C,Uruguay,Lucas Torreira,MF
+C,Uruguay,Federico Valverde,MF
+C,Uruguay,Gastón Pereiro,MF
+C,Uruguay,Diego Laxalt,DF
+C,Uruguay,Maxi Gómez,FW
+C,Uruguay,Sebastián Coates,DF
+C,Uruguay,Jonathan Rodríguez,FW
+C,Uruguay,Edinson Cavani,FW
+C,Uruguay,Martín Cáceres,DF
+C,Uruguay,Martín Silva,GK
+C,Ecuador,Alexander Domínguez,GK
+C,Ecuador,Arturo Mina,DF
+C,Ecuador,Robert Arboleda,DF
+C,Ecuador,Pedro Pablo Velasco,DF
+C,Ecuador,Renato Ibarra,MF
+C,Ecuador,Cristian Ramírez,DF
+C,Ecuador,Romario Ibarra,MF
+C,Ecuador,Carlos Gruezo,MF
+C,Ecuador,Carlos Garcés,FW
+C,Ecuador,Ángel Mena,FW
+C,Ecuador,Ayrton Preciado,MF
+C,Ecuador,Pedro Ortíz,GK
+C,Ecuador,Enner Valencia,FW
+C,Ecuador,Xavier Arreaga,DF
+C,Ecuador,Jefferson Intriago,MF
+C,Ecuador,Antonio Valencia,MF
+C,Ecuador,José Quintero,DF
+C,Ecuador,Jefferson Orejuela,MF
+C,Ecuador,Beder Caicedo,DF
+C,Ecuador,Andrés Chicaiza,MF
+C,Ecuador,Gabriel Achilier,DF
+C,Ecuador,Máximo Banguera,GK
+C,Ecuador,Jhegson Méndez,MF
+C,Japan,Eiji Kawashima,GK
+C,Japan,Daiki Sugioka,DF
+C,Japan,Yuta Nakayama,MF
+C,Japan,Ko Itakura,DF
+C,Japan,Naomichi Ueda,DF
+C,Japan,Kota Watanabe,MF
+C,Japan,Gaku Shibasaki,MF
+C,Japan,Tatsuya Ito,MF
+C,Japan,Daizen Maeda,FW
+C,Japan,Shoya Nakajima,MF
+C,Japan,Koji Miyoshi,MF
+C,Japan,Ryosuke Kojima,GK
+C,Japan,Ayase Ueda,FW
+C,Japan,Teruki Hara,DF
+C,Japan,Daiki Suga,DF
+C,Japan,Takehiro Tomiyasu,DF
+C,Japan,Taishi Matsumoto,MF
+C,Japan,Shinji Okazaki,FW
+C,Japan,Tomoki Iwata,DF
+C,Japan,Hiroki Abe,MF
+C,Japan,Takefusa Kubo,MF
+C,Japan,Yugo Tatsuta,DF
+C,Japan,Keisuke Osako,GK
+C,Chile,Gabriel Arias,GK
+C,Chile,Igor Lichnovsky,DF
+C,Chile,Guillermo Maripán,DF
+C,Chile,Mauricio Isla,DF
+C,Chile,Paulo Díaz,DF
+C,Chile,José Pedro Fuenzalida,MF
+C,Chile,Alexis Sánchez,FW
+C,Chile,Arturo Vidal,MF
+C,Chile,Nicolás Castillo,FW
+C,Chile,Diego Valdés,MF
+C,Chile,Eduardo Vargas,FW
+C,Chile,Brayan Cortés,GK
+C,Chile,Erick Pulgar,MF
+C,Chile,Esteban Pavez,MF
+C,Chile,Jean Beausejour,DF
+C,Chile,Pedro Pablo Hernández,MF
+C,Chile,Gary Medel,DF
+C,Chile,Gonzalo Jara,DF
+C,Chile,Júnior Fernándes,FW
+C,Chile,Charles Aránguiz,MF
+C,Chile,Óscar Opazo,DF
+C,Chile,Ángelo Sagal,FW
+C,Chile,Yerko Urra,GK

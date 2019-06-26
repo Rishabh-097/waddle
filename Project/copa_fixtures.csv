@@ -1,0 +1,13 @@
+Team,Group,First_match_Against,Second_match_Against,Third_match_Against
+Brazil,A,Bolivia,Venezuela,Peru
+Bolivia,A,Brazil,Peru,Venezuela
+Venezuela,A,Peru,Brazil,Bolivia
+Peru,A,Venezuela,Bolivia,Brazil
+Argentina,B,Colombia,Paraguay,Qatar
+Colombia,B,Argentina,Qatar,Paraguay
+Paraguay,B,Qatar,Argentina,Colombia
+Qatar,B,Paraguay,Colombia,Argentina
+Uruguay,C,Ecuador,Japan,Chile
+Ecuador,C,Uruguay,Chile,Japan
+Japan,C,Chile,Uruguay,Ecuador
+Chile,C,Japan,Ecuador,Uruguay
